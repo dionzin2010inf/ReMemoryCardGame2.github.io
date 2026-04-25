@@ -1,0 +1,21 @@
+body{
+    background-image: url("Remcg2.png");
+}
+
+#play {
+    background-color: rgb(201, 96, 96);
+    color: rgb(230, 220, 220);
+    border-color: rgb(65, 1, 1);
+    position: absolute;
+    top: 70%;
+    left: 49%;
+    border-radius: 90px;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px 200px;
+    transform: translate(-50%, -50%);
+}
+
+#play {
+    font-family: 'Creepster', cursive;
+}
